@@ -67,6 +67,6 @@ def transform_fed_attributes():
                 out.write(sql + '\n')
 
 # Run transformations
-transform_fed_users()
+#transform_fed_users()
 transform_fed_credentials()
-transform_fed_attributes()
+#transform_fed_attributes()
